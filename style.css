@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('PS5.jpg');
+    background: url('ps5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -90,7 +90,7 @@ h1 {
 
 .split.right {
     right: 0;
-    background: url('xbox.jpg');
+    background: url('xboxsx.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
